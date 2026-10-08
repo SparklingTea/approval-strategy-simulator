@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.claude/
+data/raw/
+data/processed/loans.parquet
